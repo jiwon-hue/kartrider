@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "barcode": "8801043014830", "description": "농심신라면120G*5입", "price" : 4000 },
+    { "barcode": "8801043015264", "description": "농심올리브짜파게티140G*5입" , "price" : 4100},
+    { "barcode": "8801043014786", "description": "농심안성탕면125G*5입" , "price" : 4200},
+    { "barcode": "8801045522265", "description": "오뚜기진라면매운맛120G*5입" , "price" : 4300},
+    { "barcode": "8801043015011", "description": "농심얼큰한너구리120G*5입" , "price" : 4400},
+    { "barcode": "123", "description": "상품123" , "price" : 123}
+  ]
+}
